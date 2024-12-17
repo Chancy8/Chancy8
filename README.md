@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 
 <!---
-Chancy8/Chancy8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chancy8/Chancy8 is a ✨ special ✨ repository because its `README.md`![1000000562](https://github.com/user-attachments/assets/fe13eda5-8652-470f-a3fc-685e0643b567)
+ (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
